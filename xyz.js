@@ -1,1 +1,1 @@
-alert("hacked")
+console.log("hellow world")
